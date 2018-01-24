@@ -42,8 +42,8 @@ npm run build
 ├── src/							# 源文件
 │   ├── js/                   # JS放置目录
 │       └── es6/ 				# es6文件放置目录
-│   		├── main.js 		# js主入口
-│			└── ...
+│       ├── main.js 		# js主入口
+│			  └── ...
 │   ├── less/                   # less放置目录
 │       ├── main.less 			# 样式文件主入口
 │       └── reset.less 			# 初始化样式文件
